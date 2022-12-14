@@ -74,30 +74,52 @@ h2{
 }
 
 
-/*INGREDIENSER*/
+/*INGREDIENSER + STEP BY STEP + OM OS*/
 .flexto{
     display: flex;
     justify-content: space-around;
 
     margin-top: 50px;
-    margin-right: 50px;
+    margin-right: 250px;
     margin-bottom: 20px;
-    margin-left: 300px;
+    margin-left: 250px;
+}
+
+.flexto2{
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+}
+
+.flexto img{
+    padding-right: 50px;
+}
+
+.flexto2 img{
+    padding-left: 50px;
 }
 
 .tekstfelt1{
-    padding: 0px 200px 50px 100px;
     letter-spacing: 1px;
     line-height: 30px;
     color: #A38A93;
 }
 
 .tekstfelt2{
-    padding: 0px 200px 50px 300px;
+    padding: 30px 250px 50px 250px;
     letter-spacing: 1px;
     line-height: 30px;
     color: #A38A93;
 }
+
+#foamhands{
+    padding: 30px 250px 30px 250px;
+}
+
 
 
 /*FOOTER*/
