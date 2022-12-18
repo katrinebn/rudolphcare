@@ -252,8 +252,8 @@ footer {
     }
 
     #foamhands{
-       height: 250px;
-       width: auto;
+       padding-left:30px;
+       padding-right: 30px;
     }
 }
 
