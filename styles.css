@@ -164,10 +164,6 @@ footer {
     transform: scale(1.2);
 }
 
-/*HVORDAN CENTRERER JEG TEKSTEN I FORHOLD TIL TEKSTBOKSEN????*/
-#nyhedsbrev p{
-    text-align: center;
-}
 
 /*MAIL TEKSTFELT DESIGN*/
 #mail{
